@@ -31,7 +31,7 @@ The course includes:
 The complete course notes are available here:
 
 📘 [Ordinary Differential Equations Notes](notes/odes2016notes.pdf)
-The notes introduce differential equations as equations describing relationships between variables and their derivatives and subsequently develop methods for solving different classes of ordinary differential equations.
+*The notes introduce differential equations as equations describing relationships between variables and their derivatives and subsequently develop methods for solving different classes of ordinary differential equations.
 
 ## Repository Structure
 
