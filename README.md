@@ -56,6 +56,10 @@ The materials combine mathematical theory, worked examples, exercises, and appli
 
 **G. Nhawu**
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
 ## Status
 
 This repository is being developed as an open educational resource and may be updated with additional examples, exercises, computational demonstrations, and solutions.
