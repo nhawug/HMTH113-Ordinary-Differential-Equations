@@ -1,4 +1,7 @@
 # HMTH113-Ordinary-Differential-Equations
+![Course](https://img.shields.io/badge/Course-HMTH113-blue)
+![LaTeX](https://img.shields.io/badge/Typeset_in-LaTeX-008080?logo=latex)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 Teaching notes, examples, exercises and resources for an introductory course in Ordinary Differential Equations.
 
 ## About the Course
